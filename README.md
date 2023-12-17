@@ -46,7 +46,7 @@ Establishing a foundation for decision-making in the financial domain.
 - Clone the repository to your local machine.
 - Open the Jupyter Notebook titled "SNI.ipynb" in a compatible environment.
 - Execute the cells sequentially to reproduce the analysis and model evaluations.
-- 
+  
 ## Dependencies
 
 Ensure you have the following Python libraries installed:
